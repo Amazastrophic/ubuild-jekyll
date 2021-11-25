@@ -16,7 +16,7 @@ page_sections:
   image:
     image: "/uploads/2021/11/25/fneplxczjh.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/11/25/fneplxczjh.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
