@@ -8,7 +8,7 @@ page_sections:
   media_alignment: Right
   slug: customize
   headline: <strong>Art</strong><span class="light"> and the modern renaissance </span>
-  content: ''
+  content: People saying “It can’t be done” are interrupted by somebody doing it.
   media:
     image: "/uploads/2021/11/25/ehqsl8dhk3.jpg"
     alt_text: Customize Blocks
