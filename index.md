@@ -43,6 +43,9 @@ page_sections:
     so vast it's hard to imagine. Our monetary gains are second place to the core
     mission and that's why you chose to create unique NFT sales to sustain the two
     people who currently work at Amazastrophic.</p>"
+- template: simple-footer
+  block: footer-1
+  content: "<strong><em>One-off Meme Metaverses start below:</em></strong>"
 - template: hero-banner-w-image
   block: hero-2
   cta:
