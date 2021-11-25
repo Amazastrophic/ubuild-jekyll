@@ -59,5 +59,17 @@ page_sections:
   content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
     href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
     title="Twitter">Twitter</a>
+- template: hero-banner-w-image
+  block: hero-2
+  cta:
+    enabled: true
+    url: https://cow.sagetowers.com
+    button_text: 'Cowtopia '
+  headline: Cow
+  content: Cow
+  image:
+    image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
+    alt_text: ''
+  background_image: ''
 
 ---
