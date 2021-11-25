@@ -12,28 +12,6 @@ page_sections:
   media:
     image: "/uploads/2021/11/25/ehqsl8dhk3.jpg"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    image: "/uploads/2018/06/21/forestry-symbol.svg"
-    alt_text: Product Shot
-  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -44,23 +22,6 @@ page_sections:
     image: "/uploads/2021/11/25/sage_towers_kapjlfm5kn.jpg"
     alt_text: Wide open land
   content: ''
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
 - template: detail-content
   block: text-1
   headline: Welcome the the luxury metaverse
@@ -83,5 +44,53 @@ page_sections:
     so vast it's hard to imagine. Our monetary gains are second place to the core
     mission and that's why you chose to create unique NFT sales to sustain the two
     people who currently work at Amazastrophic.</p>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
+    alt_text: ''
+  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza "
+  slug: ''
+  content: ''
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: 16 Fully Responsive Design Blocks
+  content: |
+    The Design Blocks can be used without Forestry but to harness the power
+    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
+    create new sites and make them fully customizable.
+- template: hero-banner-w-image
+  block: hero-2
+  slug: features
+  headline: uBuild <br><strong>design blocks</strong>
+  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
+    content manager.
+  cta:
+    enabled: true
+    url: https://github.com/forestryio/ubuild-jekyll
+    button_text: 'See on GitHub '
+  image:
+    image: "/uploads/2018/06/21/forestry-symbol.svg"
+    alt_text: Product Shot
+  background_image: ''
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2018/06/21/forestry-full.svg"
+  navigation:
+  - link: "/"
+    link_text: Ubuild
+  - link: "#swap"
+    link_text: Swap
+  - link: "#customize"
+    link_text: Customize
+  - link: "#responsive"
+    link_text: Responsive
+  - link: "#blocks"
+    link_text: Blocks
+  cta:
+    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    button_text: Import
 
 ---
