@@ -56,7 +56,6 @@ page_sections:
   block: one-column-1
   slug: responsive
   headline: Contact us
-  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><br><img
-    src="/uploads/2021/11/25/6nak5jfwmd.png">
+  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a>
 
 ---
