@@ -16,12 +16,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Beautiful &amp; Unrestricted </strong><span class="light">the
-    wonder never really stops</span>
+  headline: "<strong>Beautiful &amp; Unrestricted </strong>if we can all work together"
   media:
     image: "/uploads/2021/11/25/sage_towers_kapjlfm5kn.jpg"
     alt_text: Wide open land
-  content: ''
+  content: Open source makes for an open metaverse
 - template: detail-content
   block: text-1
   headline: Welcome the the luxury metaverse
