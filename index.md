@@ -21,6 +21,15 @@ page_sections:
     image: "/uploads/2021/11/25/sage_towers_kapjlfm5kn.jpg"
     alt_text: Wide open land
   content: All art intuitively apprehends coming changes in the collective unconsciousness.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Community</strong> can build grand works"
+  content: Turn and face the strange changes
+  slug: ''
+  media:
+    image: "/uploads/2021/11/25/vv8h4p6trp.gif"
+    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   cta:
