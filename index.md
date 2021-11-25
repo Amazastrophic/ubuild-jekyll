@@ -64,7 +64,7 @@ page_sections:
   cta:
     enabled: true
     url: https://cow.sagetowers.com
-    button_text: 'Cowtopia '
+    button_text: Enter the Cowtopia Metaverse
   headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza  "
   content: The point of this experiment is to promote moos, memes, and creative commons
     license. We believe in an open internet and building the metaverse the same way.
