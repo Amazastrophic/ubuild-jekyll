@@ -65,8 +65,11 @@ page_sections:
     enabled: true
     url: https://cow.sagetowers.com
     button_text: 'Cowtopia '
-  headline: Cow
-  content: Cow
+  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza  "
+  content: The point of this experiment is to promote moos, memes, and creative commons
+    license. We believe in an open internet and building the metaverse the same way.
+    So we gathered as many open assets as we could and combined them here. Now anyone
+    can help in creating and hosting cowtopia!
   image:
     image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
     alt_text: ''
