@@ -3,6 +3,15 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: customize
+  headline: <strong>Art</strong><span class="light"> and the modern renaissance </span>
+  content: ''
+  media:
+    image: "/uploads/2021/11/25/ehqsl8dhk3.jpg"
+    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   slug: responsive
@@ -29,12 +38,12 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assembl
+  headline: <strong>Beautiful &amp; Unrestricted </strong><span class="light">the
+    wonder never really stops</span>
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2021/11/25/sage_towers_kapjlfm5kn.jpg"
+    alt_text: Wide open land
+  content: ''
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
@@ -52,15 +61,6 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: <strong>Art</strong><span class="light"> and the modern renaissance </span>
-  content: ''
-  media:
-    image: "/uploads/2021/11/25/ehqsl8dhk3.jpg"
-    alt_text: Customize Blocks
 - template: detail-content
   block: text-1
   headline: Welcome the the luxury metaverse
