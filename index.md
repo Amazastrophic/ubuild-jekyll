@@ -55,7 +55,9 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: responsive
-  headline: Contact us
-  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a>
+  headline: Links
+  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
+    href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
+    title="Twitter">Twitter</a>
 
 ---
