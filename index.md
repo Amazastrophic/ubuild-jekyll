@@ -43,6 +43,13 @@ page_sections:
     so vast it's hard to imagine. Our monetary gains are second place to the core
     mission and that's why you chose to create unique NFT sales to sustain the two
     people who currently work at Amazastrophic.</p>"
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: Links
+  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
+    href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
+    title="Twitter">Twitter</a>
 - template: simple-footer
   block: footer-1
   content: "<strong><em>One-off Meme Metaverses start below:</em></strong>"
@@ -60,12 +67,5 @@ page_sections:
     image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
     alt_text: ''
   background_image: ''
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: Links
-  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
-    href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
-    title="Twitter">Twitter</a>
 
 ---
