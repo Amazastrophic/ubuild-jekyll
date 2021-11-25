@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Sage Towers- The Luxury Metaverse
-date: 2017-11-23 06:00:00 +0000
+date: 2017-11-23T06:00:00.000+00:00
 page_sections:
 - template: content-feature
   block: feature-1
@@ -16,11 +16,25 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "<strong>Pushing </strong>art forward into the future"
+  headline: "<strong>Memes </strong>leading the way "
   media:
     image: "/uploads/2021/11/25/sage_towers_kapjlfm5kn.jpg"
     alt_text: Wide open land
   content: All art intuitively apprehends coming changes in the collective unconsciousness.
+- template: hero-banner-w-image
+  block: hero-2
+  cta:
+    enabled: true
+    url: https://cow.sagetowers.com
+    button_text: Enter the Cowtopia Metaverse
+  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza  "
+  content: The point of this experiment is to promote moos, memes, and creative commons
+    license. We believe in an open internet and building the metaverse the same way.
+    So we gathered as many open assets as we could and combined them together.
+  image:
+    image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
+    alt_text: ''
+  background_image: ''
 - template: detail-content
   block: text-1
   headline: Welcome the the luxury metaverse
@@ -53,19 +67,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: "<strong><em>One-off Meme Metaverses start below:</em></strong>"
-- template: hero-banner-w-image
-  block: hero-2
-  cta:
-    enabled: true
-    url: https://cow.sagetowers.com
-    button_text: Enter the Cowtopia Metaverse
-  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza  "
-  content: The point of this experiment is to promote moos, memes, and creative commons
-    license. We believe in an open internet and building the metaverse the same way.
-    So we gathered as many open assets as we could and combined them together.
-  image:
-    image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
-    alt_text: ''
-  background_image: ''
 
 ---
