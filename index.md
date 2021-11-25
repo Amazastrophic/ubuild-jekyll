@@ -52,13 +52,6 @@ page_sections:
   headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza "
   slug: ''
   content: <a href="https://cow.sagetowers.com" title="">Try it out here</a>
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: Links
-  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
-    href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
-    title="Twitter">Twitter</a>
 - template: hero-banner-w-image
   block: hero-2
   cta:
@@ -73,5 +66,12 @@ page_sections:
     image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
     alt_text: ''
   background_image: ''
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: Links
+  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
+    href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
+    title="Twitter">Twitter</a>
 
 ---
