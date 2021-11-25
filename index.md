@@ -16,11 +16,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "<strong>Pushing </strong>forward into the unknown "
+  headline: "<strong>Pushing </strong>art forward into the future"
   media:
     image: "/uploads/2021/11/25/sage_towers_kapjlfm5kn.jpg"
     alt_text: Wide open land
-  content: Making tomorrow's trend today
+  content: All art intuitively apprehends coming changes in the collective unconsciousness.
 - template: detail-content
   block: text-1
   headline: Welcome the the luxury metaverse
