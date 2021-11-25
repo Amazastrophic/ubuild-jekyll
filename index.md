@@ -50,10 +50,9 @@ page_sections:
   media:
     image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
     alt_text: ''
-  headline: <a href="https://cow.sagetowers.com" title=""><strong>Cowtopia </strong>a
-    one-off metaverse meme extravaganza </a>
+  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza "
   slug: ''
-  content: ''
+  content: <a href="https://cow.sagetowers.com" title="">Try it out here</a>
 - template: 1-column-text
   block: one-column-1
   slug: responsive
