@@ -65,7 +65,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
+  headline: Welcome the the luxury metaverse
   content: "<p></p><p>Sage Towers is a free, community driven metaverse experiment
     that’s focused on verified NFT ownership, web3 and realtime multiplayer interactions.
     Our long term goal is to open up as much of our core work as we can to help create
