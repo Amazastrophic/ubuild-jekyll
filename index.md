@@ -46,11 +46,12 @@ page_sections:
     people who currently work at Amazastrophic.</p>"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
     alt_text: ''
-  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza "
+  headline: <a href="https://cow.sagetowers.com" title=""><strong>Cowtopia </strong>a
+    one-off metaverse meme extravaganza </a>
   slug: ''
   content: ''
 - template: 1-column-text
