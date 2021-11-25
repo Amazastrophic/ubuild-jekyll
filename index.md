@@ -63,21 +63,27 @@ page_sections:
   media:
     image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
     alt_text: Customize Blocks
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
+  content: "<p></p><p>Sage Towers is a free, community driven metaverse experiment
+    that’s focused on verified NFT ownership, web3 and realtime multiplayer interactions.
+    Our long term goal is to open up as much of our core work as we can to help create
+    the ultimate Metaverse. We are using as much open source as we can already along
+    with Unity for platform support. Our core game can support hundreds of players
+    on a huge beautiful open world server with player base building. Web3 support
+    is being polished out before we push this metaverse much more.</p><p>Currently
+    we are building one-off meme metaverses that are creative common license focused,
+    with a private GitHub going public for everyone when a special NFT gets sold.
+    We hope to help build out directly and indirectly by creating these projects and
+    iterating on there core meme factors. The foundations of the metaverse need to
+    become grounded is some fashion, allow it to be the modern renaissance of meme
+    art.</p><p>We have no funding source backing us and are core gamers. We do not
+    wish to have crypto  transactions and NFTs shoveled into our faces like mobile
+    games did and do. There is a place and a time everything and we think we can get
+    there. The current goal should be a true open metaverse with an open source codebase
+    so vast it's hard to imagine. Our monetary gains are second place to the core
+    mission and that's why you chose to create unique NFT sales to sustain the two
+    people who currently work at Amazastrophic.</p>"
 
 ---
