@@ -3,9 +3,14 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: 16 Fully Responsive Design Blocks
+  content: |
+    The Design Blocks can be used without Forestry but to harness the power
+    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
+    create new sites and make them fully customizable.
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -58,14 +63,6 @@ page_sections:
   media:
     image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
