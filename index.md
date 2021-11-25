@@ -21,6 +21,20 @@ page_sections:
     image: "/uploads/2021/11/25/sage_towers_kapjlfm5kn.jpg"
     alt_text: Wide open land
   content: All art intuitively apprehends coming changes in the collective unconsciousness.
+- template: hero-banner-w-image
+  block: hero-2
+  cta:
+    enabled: true
+    url: https://cow.sagetowers.com
+    button_text: Enter the Cowtopia Metaverse
+  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza  "
+  content: The point of this experiment is to promote moos, memes, and creative commons
+    license. We believe in an open internet and building the metaverse the same way.
+    So we gathered as many open assets as we could and combined them together.
+  image:
+    image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
+    alt_text: ''
+  background_image: ''
 - template: detail-content
   block: text-1
   headline: Welcome the the luxury metaverse
@@ -43,29 +57,6 @@ page_sections:
     so vast it's hard to imagine. Our monetary gains are second place to the core
     mission and that's why you chose to create unique NFT sales to sustain the two
     people who currently work at Amazastrophic.</p>"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  media:
-    image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
-    alt_text: ''
-  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza "
-  slug: ''
-  content: <a href="https://cow.sagetowers.com" title="">Try it out here</a>
-- template: hero-banner-w-image
-  block: hero-2
-  cta:
-    enabled: true
-    url: https://cow.sagetowers.com
-    button_text: Enter the Cowtopia Metaverse
-  headline: "<strong>Cowtopia </strong>a one-off metaverse meme extravaganza  "
-  content: The point of this experiment is to promote moos, memes, and creative commons
-    license. We believe in an open internet and building the metaverse the same way.
-    So we gathered as many open assets as we could and combined them together.
-  image:
-    image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
-    alt_text: ''
-  background_image: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
