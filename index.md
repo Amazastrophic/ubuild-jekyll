@@ -3,6 +3,16 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: swap
+  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
+    class="light">the Blocks to create sites quickly</span>
+  content: Quickly assembl
+  media:
+    image: "/uploads/2018/06/21/blocks-split.png"
+    alt_text: uBuild Blocks Mock-Up
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
@@ -20,16 +30,6 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assembl
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
 - template: hero-banner-w-image
   block: hero-2
   slug: features
