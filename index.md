@@ -73,10 +73,5 @@ page_sections:
   content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
     href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
     title="Twitter">Twitter</a>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/11/26/bestminidiscord.mp4"
-  slug: ''
-  caption: ''
 
 ---
