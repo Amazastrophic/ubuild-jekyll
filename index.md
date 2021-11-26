@@ -46,16 +46,13 @@ page_sections:
   background_image: ''
 - template: detail-content
   block: text-1
-  headline: Welcome the the luxury metaverse
-  content: <blockquote><p><strong><em>All derivatives add value to the original</em></strong></p><p><a
-    href="https://twitter.com/Vince_Van_Dough" title="Vince_Van_Dough"><em>@Vincent_Van_Dough</em></a></p></blockquote><p><br><a
-    href="https://github.com/Amazastrophic/Meme-Metaverses" title="">Currently we
-    are building one-off meme metaverses</a> that are <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"
-    title="">public domain focused</a>, with a private GitHub going public for everyone
-    when a special NFT gets sold. We hope to help build out directly and indirectly
-    by creating these projects and iterating on there core meme factors. The foundations
-    of the metaverse need to become grounded is some fashion, allow it to be the modern
-    renaissance of meme art.</p>
+  headline: All derivatives add value to the original- @Vincent_Van_Dough
+  content: <p><a href="https://github.com/Amazastrophic/Meme-Metaverses" title="">Currently
+    we are building one-off meme metaverses</a> that are public domain focused, with
+    a private GitHub going public for everyone when a special NFT gets sold. We hope
+    to help build out directly and indirectly by creating these projects and iterating
+    on there core meme factors. The foundations of the metaverse need to become grounded
+    is some fashion, allow it to be the modern renaissance of meme art.</p>
 - template: 1-column-text
   block: one-column-1
   slug: responsive
