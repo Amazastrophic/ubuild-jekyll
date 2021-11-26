@@ -48,7 +48,7 @@ page_sections:
   block: text-1
   headline: Welcome the the luxury metaverse
   content: <blockquote><p><strong><em>All derivatives add value to the original</em></strong></p><p><a
-    href="https://twitter.com/Vince_Van_Dough" title="Vince_Van_Dough">@<em>Vincent_Van</em>_Dough</a></p></blockquote><p><br><a
+    href="https://twitter.com/Vince_Van_Dough" title="Vince_Van_Dough"><em>@Vincent_Van_Dough</em></a></p></blockquote><p><br><a
     href="https://github.com/Amazastrophic/Meme-Metaverses" title="">Currently we
     are building one-off meme metaverses</a> that are <a href="https://creativecommons.org/share-your-work/public-domain/cc0/"
     title="">public domain focused</a>, with a private GitHub going public for everyone
