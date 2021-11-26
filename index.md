@@ -76,5 +76,20 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: "<strong><em>One-off Meme Metaverses start below:</em></strong>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: It's focused on verified NFT ownership, web3 and realtime multiplayer interactions.
+    Our long term goal is to open up as much of our core work as we can to help create
+    the ultimate Metaverse. We are using as much open source as we can already along
+    with Unity for platform support. Our core game can support hundreds of players
+    on a huge beautiful open world server with player base building. Web3 support
+    is being polished out before we push this metaverse much more, but you can <a
+    href="https://discord.gg/SMjWy7FMgz" title="Discord Download">download it here</a>.
+  headline: "<strong>Sage Towers</strong> is a free, community driven metaverse experiment."
+  media:
+    image: "/uploads/2021/11/26/sage_towers_qmzoalilnh.jpg"
+    alt_text: ''
+  slug: ''
 
 ---
