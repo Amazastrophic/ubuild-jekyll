@@ -25,7 +25,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>Building </strong>together"
-  content: Turn and face the strange changes
+  content: All art intuitively apprehends coming changes in the collective unconsciousness.<br>
   slug: ''
   media:
     image: "/uploads/2021/11/25/vv8h4p6trp.gif"
