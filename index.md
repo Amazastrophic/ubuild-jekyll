@@ -70,8 +70,8 @@ page_sections:
   block: one-column-1
   slug: responsive
   headline: Links
-  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
+  content: '<a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
     href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
-    title="Twitter">Twitter</a>
+    title="Twitter">Twitter</a><br>ETH: 0xfFd20C2c2054e8B0d09e76e831D0B9E543Dc50CC'
 
 ---
