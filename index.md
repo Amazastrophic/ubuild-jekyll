@@ -41,7 +41,7 @@ page_sections:
     license. We believe in an open internet and building the metaverse the same way.
     So we gathered as many open assets as we could and combined them together.
   image:
-    image: "/uploads/2021/11/25/mspaint_6rvmstkprh.png"
+    image: "/uploads/2021/11/26/mspaint_6rvmstkprh.jpg"
     alt_text: ''
   background_image: ''
 - template: detail-content
