@@ -20,7 +20,7 @@ page_sections:
   media:
     image: "/uploads/2021/11/25/sage_towers_kapjlfm5kn.jpg"
     alt_text: Wide open land
-  content: Turn and face the strange changes.
+  content: People saying “It can’t be done” are interrupted by somebody doing it.
 - template: content-feature
   block: feature-1
   media_alignment: Right
