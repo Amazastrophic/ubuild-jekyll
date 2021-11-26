@@ -30,6 +30,15 @@ page_sections:
   media:
     image: "/uploads/2021/11/25/vv8h4p6trp.gif"
     alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: All derivatives add value to the original- @Vincent_Van_Dough
+  content: <p><a href="https://github.com/Amazastrophic/Meme-Metaverses" title="">Currently
+    we are building one-off meme metaverses</a> that are public domain focused, with
+    a private GitHub going public for everyone when a special NFT gets sold. We hope
+    to help build out directly and indirectly by creating these projects and iterating
+    on there core meme factors. The foundations of the metaverse need to become grounded
+    is some fashion, allow it to be the modern renaissance of meme art.</p>
 - template: hero-banner-w-image
   block: hero-2
   cta:
@@ -44,25 +53,6 @@ page_sections:
     image: "/uploads/2021/11/26/mspaint_6rvmstkprh.jpg"
     alt_text: ''
   background_image: ''
-- template: detail-content
-  block: text-1
-  headline: All derivatives add value to the original- @Vincent_Van_Dough
-  content: <p><a href="https://github.com/Amazastrophic/Meme-Metaverses" title="">Currently
-    we are building one-off meme metaverses</a> that are public domain focused, with
-    a private GitHub going public for everyone when a special NFT gets sold. We hope
-    to help build out directly and indirectly by creating these projects and iterating
-    on there core meme factors. The foundations of the metaverse need to become grounded
-    is some fashion, allow it to be the modern renaissance of meme art.</p>
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: Links
-  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
-    href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
-    title="Twitter">Twitter</a>
-- template: simple-footer
-  block: footer-1
-  content: "<strong><em>One-off Meme Metaverses start below:</em></strong>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -78,5 +68,12 @@ page_sections:
     image: "/uploads/2021/11/26/sage_towers_qmzoalilnh.jpg"
     alt_text: ''
   slug: ''
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: Links
+  content: <a href="https://discord.gg/sagetowers" title="Discord">Discord</a><br><a
+    href="https://github.com/Amazastrophic" title="Github">Github</a><br><a href="https://twitter.com/TRASHENSTEIN"
+    title="Twitter">Twitter</a>
 
 ---
