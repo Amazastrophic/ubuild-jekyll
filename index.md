@@ -33,11 +33,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: All derivatives add value to the original- @Vincent_Van_Dough
-  content: <p><a href="https://github.com/Amazastrophic/Meme-Metaverses" title="">Two
-    person studio Amazastrophic, is building one-off meme metaverses</a> that are
-    public domain focused, with a private Github going public for everyone when a
-    special NFT is sold. If you keep scrolling you can learn about the metaverse we
-    have released so far!</p>
+  content: <p>Two person studio Amazastrophic, is building <a href="https://github.com/Amazastrophic/Meme-Metaverses/"
+    title="">one-off meme metaverses</a> that are public domain focused, with a private
+    Github going public for everyone when a special NFT is sold. If you keep scrolling
+    you can learn about the metaverse we have released so far!</p>
 - template: hero-banner-w-image
   block: hero-2
   cta:
