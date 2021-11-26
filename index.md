@@ -53,7 +53,7 @@ page_sections:
   background_image: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   content: It's focused on verified NFT ownership, web3 and realtime multiplayer interactions.
     Our long term goal is to open up as much of our core work as we can to help create
     the ultimate Metaverse. We are using as much open source as we can already along
