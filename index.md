@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Sage Towers- The Luxury Metaverse
+title: Sage Towers- Public Metaverse
 date: 2017-11-23T06:00:00.000+00:00
 page_sections:
 - template: content-feature
@@ -24,7 +24,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Community</strong> can build grand works"
+  headline: "<strong>Building </strong>together"
   content: Turn and face the strange changes
   slug: ''
   media:
