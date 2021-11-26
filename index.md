@@ -35,10 +35,8 @@ page_sections:
   headline: All derivatives add value to the original- @Vincent_Van_Dough
   content: <p><a href="https://github.com/Amazastrophic/Meme-Metaverses" title="">Currently
     we are building one-off meme metaverses</a> that are public domain focused, with
-    a private GitHub going public for everyone when a special NFT gets sold. We hope
-    to help build out directly and indirectly by creating these projects and iterating
-    on there core meme factors. The foundations of the metaverse need to become grounded
-    is some fashion, allow it to be the modern renaissance of meme art.</p>
+    a private Github going public for everyone when a special NFT is sold. If you
+    keep scrolling you can learn about the metaverse we have released so far!</p>
 - template: hero-banner-w-image
   block: hero-2
   cta:
