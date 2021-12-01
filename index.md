@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Sage Towers- Open Metaverses
+title: Luxury, art, and technology in a new light
 date: 2017-11-23T06:00:00.000+00:00
 page_sections:
 - template: content-feature
